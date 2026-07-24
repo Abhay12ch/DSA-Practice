@@ -1,5 +1,5 @@
 package Arrays;
-// leetcode 1295 easy
+// leetcode 1295 easy find even no of digits in the given array
 public class evennodigits1295 {
     public static void main(String[] args) {
         int[] nums = {12,345,2,6,7896};
