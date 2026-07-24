@@ -33,3 +33,5 @@ public class evennodigits1295 {
         return count;
     }
 }
+// github graph updations ke liye kya kya krna padta h
+// hhhhhhhhhhhhhhhhhhhhhhhhh
