@@ -1,5 +1,5 @@
 package Search;
-
+// complexity is O(logn)
 public class orderAgnosticBS {
     public static void main(String[] args) {
         //int[] arr = {-18,-10,-5,-3,2,3,4,5,6,18,22,78,99};
